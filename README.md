@@ -1,0 +1,2 @@
+# studious
+my first repo
